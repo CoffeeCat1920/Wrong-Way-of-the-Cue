@@ -1,5 +1,3 @@
-# Biplane Model Tool
-
-This is a small tool being developed to procedurally model biplanes for use in a game.
+# My GMTK gamejam entry 
 
 Made with [Raylib](https://www.raylib.com/).
